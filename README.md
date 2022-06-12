@@ -10,8 +10,8 @@ The purpose of this project is to make a usable software for student performance
 5.	Performance Evaluation
 6.	Profiling
 
-**Files in the repository:**
-/Database/Students.txt (it holds information of students)
+**Files in the repository:**\n
+/Database/Students.txt (it holds information of students)\n
 /Database/Marks.txt (it holds marks of students)
 /Database/Grades.txt (it holds grades of students)
 
